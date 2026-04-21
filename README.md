@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 - 🎮 게임 클라이언트 개발 경력 4년+
-- 🧩 Unity / Cocos / Roblox 다양한 엔진 경험
+- 🧩 Unreal5 / Unity / Cocos / Roblox 다양한 엔진 경험
 - 🌐 네트워크 & 실시간 동기화 처리 경험
 - ⚡ 성능 최적화 및 라이브 서비스 경험
 - 🔁 기획 → 개발 → 운영까지 End-to-End 경험

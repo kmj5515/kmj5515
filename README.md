@@ -62,17 +62,8 @@
 
 ## 💼 Career
 
-### 🏢 Smilegate Entertainment
-`2023.03 ~ Present`
-- Unity 기반 콘텐츠 플랫폼 개발
-- 실시간 멀티플레이 및 시스템 개발
-- 모바일 성능 최적화 및 구조 개선
-
-### 🏢 Supertree
-`2022.01 ~ 2023.03`
-- Roblox 게임 개발 및 라이브 운영
-- 1인 개발 프로젝트 포함 다수 출시
-- 최대 동시 접속자 100명 경험
+### 🏢 Smilegate Entertainment`2023.03 ~ Present`
+### 🏢 Supertree `2022.01 ~ 2023.03`
 
 ---
 

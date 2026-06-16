@@ -62,8 +62,8 @@
 
 ## 💼 Career
 
-### 🏢 Smilegate Entertainment`2023.03 ~ Present`
-### 🏢 Supertree `2022.01 ~ 2023.03`
+### 🏢 `2023.03 ~ Present` Smilegate Entertainment
+### 🏢 `2022.01 ~ 2023.03` Supertree 
 
 ---
 

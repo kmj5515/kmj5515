@@ -1,13 +1,16 @@
 <h1 align="center">👋 Hi, I'm Minjun Kim</h1>
 <p align="center">
-🎮 <b>Game Client Developer (Unity)</b><br/>
-실시간 멀티플레이 · 콘텐츠 시스템 · 모바일 최적화
+🎮 <b>Game Client Developer · Unity / Unreal</b><br/>
+실시간 멀티플레이 · 콘텐츠 시스템 · 모바일 최적화 · 공간 음향
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
+> 🎯 소리와 공간처럼 플레이어가 무의식중에 느끼는 디테일까지 물리 기반으로 구현해, **믿을 수 있는 게임 세계**를 만드는 클라이언트 개발을 지향합니다.
+
 - 🎮 게임 클라이언트 개발 경력 4년+
+- 🔊 C++로 실시간 공간 음향 시스템 설계·구현 (Unreal Engine 5, [Organic Reverb](https://github.com/kmj5515/organic-reverb-ue5))
 - 🧩 Unreal5 / Unity / Cocos / Roblox 다양한 엔진 경험
 - 🌐 네트워크 & 실시간 동기화 처리 경험
 - ⚡ 성능 최적화 및 라이브 서비스 경험
